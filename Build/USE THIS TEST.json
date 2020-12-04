@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "YEET",
+"productVersion": "0.1",
+"dataUrl": "USE THIS TEST.data.unityweb",
+"wasmCodeUrl": "USE THIS TEST.wasm.code.unityweb",
+"wasmFrameworkUrl": "USE THIS TEST.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
